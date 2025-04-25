@@ -13,7 +13,7 @@ I am a computer science major at CSUF and I plan on graduating some day
   commiting and pushing.
 
   ![Gif of every new computer science student]
-  (https://raw.githubusercontent.com/Judahteista/judahteista.github.io/refs/heads/main/Homer.gif "Every new computer science  major!")
+  (Homer.gif "Every new computer science  major!")
 
 * Lab 7
 
@@ -25,7 +25,7 @@ I am a computer science major at CSUF and I plan on graduating some day
   opposite of the english language.
 
   ![Image of a parking sign]
-  (https://raw.githubusercontent.com/Judahteista/judahteista.github.io/refs/heads/main/parking.png "Its the honest truth!")
+  (parking.png "Its the honest truth!")
 
 * Lab 11 Part 2
 
