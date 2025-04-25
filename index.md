@@ -1,7 +1,7 @@
 
 # Judah Teista's Portfolio
 
-I am a computer science major at CSUF and i plan on graduating
+I am a computer science major at CSUF and i plan on graduating some day
 
 ## Favorite CPSC 120L Labs
 
