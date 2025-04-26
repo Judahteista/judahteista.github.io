@@ -12,8 +12,6 @@ I am a computer science major at CSUF and I plan on graduating some day
   slowly started to become second nature on how to use said programs and how to check for improvements along with testing and
   commiting and pushing.
 
-  ![]
-
 * Lab 7
 
   This was my second favorite lab because we were afforded the opportunity to use military time which seemed uncommon among
@@ -22,8 +20,6 @@ I am a computer science major at CSUF and I plan on graduating some day
   confusing at times. In this code we finally got to incorporate stoi along with else if statements. I heard that the use
   of && and || confused plenty of students because it almost seemed as if you had to use them in a manner that seems
   opposite of the english language.
-
-  ![](/home/judahteista/Pictures/Screenshots/parking.png)
 
 * Lab 11 Part 2
 
