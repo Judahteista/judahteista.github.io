@@ -12,8 +12,7 @@ I am a computer science major at CSUF and I plan on graduating some day
   slowly started to become second nature on how to use said programs and how to check for improvements along with testing and
   commiting and pushing.
 
-  ![Gif of every new computer science student]
-  (https://raw.githubusercontent.com/Judahteista/judahteista.github.io/refs/heads/main/Homer.gif "Every new computer science  major!")
+  ![]
 
 * Lab 7
 
@@ -24,8 +23,7 @@ I am a computer science major at CSUF and I plan on graduating some day
   of && and || confused plenty of students because it almost seemed as if you had to use them in a manner that seems
   opposite of the english language.
 
-  ![Image of a parking sign]
-  (https://raw.githubusercontent.com/Judahteista/judahteista.github.io/refs/heads/main/parking.png "Its the honest truth!")
+  ![](/home/judahteista/Pictures/Screenshots/parking.png)
 
 * Lab 11 Part 2
 
